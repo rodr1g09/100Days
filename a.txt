@@ -1,4 +1,8 @@
 a
+<<<<<<< Updated upstream
 b
 c
 d
+=======
+charset
+>>>>>>> Stashed changes
